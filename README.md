@@ -1,5 +1,10 @@
 # One D&D Playtest 的筆記
 
+## 官方連結
+
+- [D&D Beyond 上的 One D&D 頁面](https://www.dndbeyond.com/one-dnd)
+- [One D&D Playtest Materials （目前需要登入 D&D Beyond 才能獲取資料）](https://www.dndbeyond.com/sources/one-dnd)
+
 ## 事件摘要
 
 時區以 UTC+8 為主。
